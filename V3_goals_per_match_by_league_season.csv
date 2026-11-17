@@ -1,0 +1,16 @@
+country_name,league_name,season_name,total_matches,total_goals,avg_goals_per_match,home_win_pct
+England,England Premier League,2011/2012,380,1066,2.81,45.00
+England,England Premier League,2012/2013,380,1063,2.80,43.68
+England,England Premier League,2013/2014,380,1052,2.77,47.11
+England,England Premier League,2014/2015,380,975,2.57,45.26
+England,England Premier League,2015/2016,380,1026,2.70,41.32
+Germany,Germany 1. Bundesliga,2011/2012,306,875,2.86,45.42
+Germany,Germany 1. Bundesliga,2012/2013,306,898,2.93,42.48
+Germany,Germany 1. Bundesliga,2013/2014,306,967,3.16,47.39
+Germany,Germany 1. Bundesliga,2014/2015,306,843,2.75,47.39
+Germany,Germany 1. Bundesliga,2015/2016,306,866,2.83,44.12
+Spain,Spain LIGA BBVA,2011/2012,380,1050,2.76,49.47
+Spain,Spain LIGA BBVA,2012/2013,380,1091,2.87,49.74
+Spain,Spain LIGA BBVA,2013/2014,380,1045,2.75,47.11
+Spain,Spain LIGA BBVA,2014/2015,380,1009,2.66,45.00
+Spain,Spain LIGA BBVA,2015/2016,380,1043,2.74,48.16
