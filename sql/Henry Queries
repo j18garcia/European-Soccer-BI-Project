@@ -1,0 +1,49 @@
+WITH HomePerformance AS (
+    SELECT
+        home_team_id,
+        COUNT(*) AS home_matches,
+        SUM(CASE
+            WHEN home_team_goal > away_team_goal THEN 1
+            ELSE 0
+        END) AS home_wins
+    FROM dbo.[Match]
+    GROUP BY home_team_id
+),
+
+AwayPerformance AS (
+    SELECT
+        away_team_id,
+        COUNT(*) AS away_matches,
+        SUM(CASE
+            WHEN away_team_goal > home_team_goal THEN 1
+            ELSE 0
+        END) AS away_wins
+    FROM dbo.[Match]
+    GROUP BY away_team_id
+)
+
+SELECT TOP 10
+    t.team_long_name AS team_name,
+    h.home_matches,
+    h.home_wins,
+    a.away_matches,
+    a.away_wins,
+
+    CAST(h.home_wins * 100.0 / h.home_matches --CONVERTING WIN RATE TO A PERCENTAGE HELPS ACCOUNT FOR DIFFERENT AMOUNT OF GAMES PLAYED
+        AS DECIMAL(5,2)) AS home_win_pct,
+
+    CAST(a.away_wins * 100.0 / a.away_matches
+        AS DECIMAL(5,2)) AS away_win_pct,
+
+    CAST(
+        (h.home_wins * 100.0 / h.home_matches) -
+        (a.away_wins * 100.0 / a.away_matches)
+        AS DECIMAL(5,2)
+    ) AS home_field_advantage
+
+FROM HomePerformance h
+INNER JOIN AwayPerformance a
+    ON h.home_team_id = a.away_team_id
+INNER JOIN dbo.Team t
+    ON h.home_team_id = t.team_id
+ORDER BY home_field_advantage DESC;
