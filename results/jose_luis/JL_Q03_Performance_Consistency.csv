@@ -1,0 +1,18 @@
+league_name,team_long_name,seasons_played,avg_points_per_match,lowest_season_ppm,highest_season_ppm,ppm_range
+England Premier League,Tottenham Hotspur,5,1.81,1.68,1.89,0.21
+England Premier League,Arsenal,5,1.94,1.84,2.08,0.24
+Germany 1. Bundesliga,Bayer 04 Leverkusen,5,1.77,1.59,1.91,0.32
+Spain LIGA BBVA,FC Barcelona,5,2.44,2.29,2.63,0.34
+Spain LIGA BBVA,Real Madrid CF,5,2.39,2.24,2.63,0.39
+Germany 1. Bundesliga,FC Schalke 04,5,1.66,1.41,1.88,0.47
+Germany 1. Bundesliga,FC Bayern Munich,5,2.48,2.15,2.68,0.53
+Germany 1. Bundesliga,Borussia Mönchengladbach,5,1.66,1.38,1.94,0.56
+England Premier League,Manchester City,5,2.09,1.74,2.34,0.61
+England Premier League,Manchester United,5,1.99,1.68,2.34,0.66
+Spain LIGA BBVA,Sevilla FC,5,1.53,1.32,2.00,0.68
+Germany 1. Bundesliga,VfL Wolfsburg,5,1.54,1.26,2.03,0.76
+England Premier League,Liverpool,5,1.68,1.37,2.21,0.84
+Spain LIGA BBVA,Valencia CF,5,1.56,1.16,2.03,0.87
+Spain LIGA BBVA,Atlético Madrid,5,2.04,1.47,2.37,0.89
+England Premier League,Chelsea,5,1.88,1.32,2.29,0.97
+Germany 1. Bundesliga,Borussia Dortmund,5,2.01,1.35,2.38,1.03

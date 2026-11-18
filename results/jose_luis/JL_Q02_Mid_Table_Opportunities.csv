@@ -1,0 +1,49 @@
+league_name,season_name,team_long_name,league_rank,matches_played,total_points,points_per_match,league_avg_ppm,ppm_above_league_avg
+England Premier League,2011/2012,Newcastle United,5,38,65,1.71,1.38,0.33
+England Premier League,2011/2012,Chelsea,6,38,64,1.68,1.38,0.30
+England Premier League,2011/2012,Everton,7,38,56,1.47,1.38,0.09
+England Premier League,2012/2013,Tottenham Hotspur,5,38,72,1.89,1.36,0.53
+England Premier League,2012/2013,Everton,6,38,63,1.66,1.36,0.30
+England Premier League,2012/2013,Liverpool,7,38,61,1.61,1.36,0.25
+England Premier League,2013/2014,Everton,5,38,72,1.89,1.40,0.49
+England Premier League,2013/2014,Tottenham Hotspur,6,38,69,1.82,1.40,0.42
+England Premier League,2013/2014,Manchester United,7,38,64,1.68,1.40,0.28
+England Premier League,2013/2014,Southampton,8,38,56,1.47,1.40,0.07
+England Premier League,2014/2015,Tottenham Hotspur,5,38,64,1.68,1.38,0.30
+England Premier League,2014/2015,Liverpool,6,38,62,1.63,1.38,0.25
+England Premier League,2014/2015,Southampton,7,38,60,1.58,1.38,0.20
+England Premier League,2014/2015,Swansea City,8,38,56,1.47,1.38,0.09
+England Premier League,2014/2015,Stoke City,9,38,54,1.42,1.38,0.04
+England Premier League,2015/2016,Southampton,6,38,63,1.66,1.36,0.30
+England Premier League,2015/2016,West Ham United,7,38,62,1.63,1.36,0.27
+England Premier League,2015/2016,Liverpool,8,38,60,1.58,1.36,0.22
+Germany 1. Bundesliga,2011/2012,Bayer 04 Leverkusen,5,34,54,1.59,1.37,0.22
+Germany 1. Bundesliga,2011/2012,VfB Stuttgart,6,34,53,1.56,1.37,0.19
+Germany 1. Bundesliga,2011/2012,Hannover 96,7,34,48,1.41,1.37,0.04
+Germany 1. Bundesliga,2012/2013,Eintracht Frankfurt,5,34,51,1.50,1.37,0.13
+Germany 1. Bundesliga,2012/2013,SC Freiburg,5,34,51,1.50,1.37,0.13
+Germany 1. Bundesliga,2012/2013,Hamburger SV,7,34,48,1.41,1.37,0.04
+Germany 1. Bundesliga,2012/2013,Borussia Mönchengladbach,8,34,47,1.38,1.37,0.01
+Germany 1. Bundesliga,2013/2014,VfL Wolfsburg,5,34,60,1.76,1.40,0.36
+Germany 1. Bundesliga,2013/2014,Borussia Mönchengladbach,6,34,55,1.62,1.40,0.22
+Germany 1. Bundesliga,2013/2014,1. FSV Mainz 05,7,34,53,1.56,1.40,0.16
+Germany 1. Bundesliga,2013/2014,FC Augsburg,8,34,52,1.53,1.40,0.13
+Germany 1. Bundesliga,2014/2015,FC Augsburg,5,34,49,1.44,1.37,0.07
+Germany 1. Bundesliga,2014/2015,FC Schalke 04,6,34,48,1.41,1.37,0.04
+Germany 1. Bundesliga,2015/2016,FC Schalke 04,5,34,52,1.53,1.38,0.15
+Germany 1. Bundesliga,2015/2016,1. FSV Mainz 05,6,34,50,1.47,1.38,0.09
+Germany 1. Bundesliga,2015/2016,Hertha BSC Berlin,6,34,50,1.47,1.38,0.09
+Spain LIGA BBVA,2011/2012,Atlético Madrid,5,38,56,1.47,1.38,0.09
+Spain LIGA BBVA,2011/2012,Levante UD,6,38,55,1.45,1.38,0.07
+Spain LIGA BBVA,2011/2012,CA Osasuna,7,38,54,1.42,1.38,0.04
+Spain LIGA BBVA,2012/2013,Valencia CF,5,38,65,1.71,1.39,0.32
+Spain LIGA BBVA,2012/2013,Málaga CF,6,38,57,1.50,1.39,0.11
+Spain LIGA BBVA,2012/2013,Real Betis Balompié,7,38,56,1.47,1.39,0.08
+Spain LIGA BBVA,2013/2014,Sevilla FC,5,38,63,1.66,1.39,0.27
+Spain LIGA BBVA,2013/2014,Real Sociedad,6,38,59,1.55,1.39,0.16
+Spain LIGA BBVA,2013/2014,Villarreal CF,6,38,59,1.55,1.39,0.16
+Spain LIGA BBVA,2014/2015,Sevilla FC,5,38,76,2.00,1.38,0.62
+Spain LIGA BBVA,2014/2015,Villarreal CF,6,38,60,1.58,1.38,0.20
+Spain LIGA BBVA,2014/2015,Athletic Club de Bilbao,7,38,55,1.45,1.38,0.07
+Spain LIGA BBVA,2015/2016,Athletic Club de Bilbao,5,38,62,1.63,1.38,0.25
+Spain LIGA BBVA,2015/2016,RC Celta de Vigo,6,38,60,1.58,1.38,0.20

@@ -1,0 +1,45 @@
+league_name,team_long_name,seasons_played,first_season_ppm,last_season_ppm,ppm_improvement
+Spain LIGA BBVA,Atlético Madrid,5,1.47,2.32,0.84
+Spain LIGA BBVA,Villarreal CF,4,1.08,1.68,0.61
+Germany 1. Bundesliga,Hertha BSC Berlin,4,0.91,1.47,0.56
+Germany 1. Bundesliga,FC Bayern Munich,5,2.15,2.59,0.44
+Germany 1. Bundesliga,1. FC Köln,3,0.88,1.26,0.38
+Spain LIGA BBVA,Athletic Club de Bilbao,5,1.29,1.63,0.34
+Germany 1. Bundesliga,1. FSV Mainz 05,5,1.15,1.47,0.32
+England Premier League,Liverpool,5,1.37,1.58,0.21
+Germany 1. Bundesliga,Bayer 04 Leverkusen,5,1.59,1.76,0.18
+England Premier League,Stoke City,5,1.18,1.34,0.16
+Germany 1. Bundesliga,Hamburger SV,5,1.06,1.21,0.15
+Spain LIGA BBVA,Sevilla FC,5,1.32,1.37,0.05
+England Premier League,Arsenal,5,1.84,1.87,0.03
+Spain LIGA BBVA,Real Sociedad,5,1.24,1.26,0.03
+England Premier League,Tottenham Hotspur,5,1.82,1.84,0.03
+Germany 1. Bundesliga,VfL Wolfsburg,5,1.29,1.32,0.03
+Germany 1. Bundesliga,FC Augsburg,5,1.12,1.12,0.00
+Spain LIGA BBVA,FC Barcelona,5,2.39,2.39,0.00
+England Premier League,Swansea City,5,1.24,1.24,0.00
+Spain LIGA BBVA,Real Betis Balompié,4,1.24,1.18,-0.05
+Spain LIGA BBVA,Granada CF,5,1.11,1.03,-0.08
+Spain LIGA BBVA,RCD Espanyol,5,1.21,1.13,-0.08
+Germany 1. Bundesliga,Borussia Dortmund,5,2.38,2.29,-0.09
+England Premier League,West Bromwich Albion,5,1.24,1.13,-0.11
+Germany 1. Bundesliga,SV Werder Bremen,5,1.24,1.12,-0.12
+Germany 1. Bundesliga,TSG 1899 Hoffenheim,5,1.21,1.09,-0.12
+Spain LIGA BBVA,Rayo Vallecano,5,1.13,1.00,-0.13
+Germany 1. Bundesliga,Borussia Mönchengladbach,5,1.76,1.62,-0.15
+England Premier League,Sunderland,5,1.18,1.03,-0.16
+England Premier League,Everton,5,1.47,1.24,-0.24
+Spain LIGA BBVA,Málaga CF,5,1.53,1.26,-0.26
+Spain LIGA BBVA,Real Madrid CF,5,2.63,2.37,-0.26
+Spain LIGA BBVA,Getafe CF,5,1.24,0.95,-0.29
+England Premier League,Norwich City,4,1.24,0.89,-0.34
+Germany 1. Bundesliga,FC Schalke 04,5,1.88,1.53,-0.35
+England Premier League,Chelsea,5,1.68,1.32,-0.37
+Spain LIGA BBVA,Valencia CF,5,1.61,1.16,-0.45
+England Premier League,Aston Villa,5,1.00,0.45,-0.55
+Germany 1. Bundesliga,VfB Stuttgart,5,1.56,0.97,-0.59
+Spain LIGA BBVA,Levante UD,5,1.45,0.84,-0.61
+England Premier League,Manchester City,5,2.34,1.74,-0.61
+England Premier League,Manchester United,5,2.34,1.74,-0.61
+Germany 1. Bundesliga,Hannover 96,5,1.41,0.74,-0.68
+England Premier League,Newcastle United,5,1.71,0.97,-0.74
